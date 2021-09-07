@@ -36,14 +36,14 @@ ignoreErrors = ["error-remote-getjson"]
   # Note:
   # Note: if you want to enable Mathjax, you need to set it to 0
   # Note: and set "math: true" at front matter in your Markdown file
-  terminalDelay = 0
+  terminalDelay = 0.001
 
   # Note: speed at which text is displayed on the activity pages
   # Note: if set to 0, typing animation will be disabled
   # Note: 
   # Note: if you want to enable Mathjax, you need to set it to 0
   # Note: and set "math: true" at front matter in your Markdown file
-  activityDelay = 0
+  activityDelay = 0.001
 
   description = """
   Hey there, I'm Michael!
@@ -53,6 +53,7 @@ ignoreErrors = ["error-remote-getjson"]
   - I may not play very much music, but I sure love listening
   
   Friendly reminder to relax your shoulders, unclench your jaw, and take a deep breath...
+
   """
 
   # Note: If you want to use a Markdown file, you can use the following
