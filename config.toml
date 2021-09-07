@@ -1,4 +1,4 @@
 baseURL = 'https://michaelraymond.info'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = './michael_info.sh'
 theme = 'hugo-theme-shell'

@@ -7,7 +7,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Jane Doe's Portfolio!"
+  description = "Meta title"
   [Params.Terminal]
   # Note: color schema
   # Note: You can choose between
@@ -36,14 +36,14 @@ ignoreErrors = ["error-remote-getjson"]
   # Note:
   # Note: if you want to enable Mathjax, you need to set it to 0
   # Note: and set "math: true" at front matter in your Markdown file
-  terminalDelay = 5
+  terminalDelay = 0
 
   # Note: speed at which text is displayed on the activity pages
   # Note: if set to 0, typing animation will be disabled
   # Note: 
   # Note: if you want to enable Mathjax, you need to set it to 0
   # Note: and set "math: true" at front matter in your Markdown file
-  activityDelay = 5
+  activityDelay = 0
 
   description = """
   Hey there, I'm Michael!
