@@ -69,6 +69,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["Github", "https://github.com/mjr2595"],
     ["(My dog's) Instagram", "https://www.instagram.com/heytherejace"],
     ["Apple Music", "https://music.apple.com/profile/_rayray"],
+    ["Discord", "https://discordapp.com/users/691148133580931143"],
   ]
 
 [module]
