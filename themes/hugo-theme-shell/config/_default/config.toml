@@ -70,6 +70,7 @@ ignoreErrors = ["error-remote-getjson"]
     ["(My dog's) Instagram", "https://www.instagram.com/heytherejace"],
     ["Apple Music", "https://music.apple.com/profile/_rayray"],
     ["Discord", "https://discordapp.com/users/691148133580931143"],
+    ["PROJECTS.md", "/posts/PROJECTS.md"],
   ]
 
 [module]
